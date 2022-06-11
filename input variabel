@@ -1,0 +1,9 @@
+nama = input ("Siapa Nama Kamu? ")
+kalimat = nama + " Selamat Belajar Python"
+
+print (kalimat)
+
+nama = input ("Siapa Nama Anda? ")
+hobi = input ("Apa Hobi Anda? ")
+
+print (nama + " Hobimu Adalah " + hobi)
