@@ -1,0 +1,18 @@
+price = 10000
+print (price)
+
+price = 50000
+print (price)
+
+discount = 0.5
+print (discount)
+
+is_discount = True
+print (is_discount)
+
+
+harga = 100000
+diskon = 0.2
+harga = harga * diskon
+
+print (harga)
