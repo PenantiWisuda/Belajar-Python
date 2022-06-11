@@ -1,0 +1,12 @@
+umur = input ("Tahun Berapa Kamu Lahir? " )
+print (type(umur))
+umur = int(umur)
+print (type(umur))
+
+usia = 2022 - umur
+print (type(usia))
+
+usia = str(usia)
+print (" Usia Kamu Sekarang Adalah " + usia)
+
+print (type(usia))
